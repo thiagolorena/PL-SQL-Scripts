@@ -3,7 +3,7 @@
 Hello Everyone,
 My name is Thiago Lorena, work actually with Information Tecnology.
 In this space shared my PL/SQL Scripts.
-My idea is just to keep my codes as a portfolio in this place
+My idea is just to keep my codes as a portfolio in this place.
 
 ## Getting Started
 
