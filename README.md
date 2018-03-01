@@ -2,7 +2,8 @@
 
 Hello Everyone,
 My name is Thiago Lorena, work actually with Information Tecnology.
-In this space share my PL/SQL Scripts.
+In this space shared my PL/SQL Scripts.
+My idea is just to keep my codes as a portfolio in this place
 
 ## Getting Started
 
@@ -17,10 +18,6 @@ Oracle 11G
 
 * [Sublime Text](http://https://www.sublimetext.com/) - The editor used.
 * [Toad For Oracle 12](https://https://www.quest.com/br-pt/products/toad-for-oracle/) - Interface with Oracle Database.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
